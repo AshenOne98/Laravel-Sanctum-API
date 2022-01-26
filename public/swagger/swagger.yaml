@@ -778,7 +778,6 @@ components:
           description: "User Password Confirmation"
         user_level:
           type: "string"
-          format: "password"
           description: "User level access"
     LoginUser:
       type: "object"
